@@ -17,7 +17,6 @@ List of resources to learn **ECMAScript 6!** (codename: **Harmony**)
 * [Slides](#slides)
 * [Talks](#talks)
 * [Transpilers/Polyfills](#transpilerspolyfills)
-* [Tutorials](#tutorials)
 * [More Useful Links](#more-useful-links)
 
 ## How to Colaborate
