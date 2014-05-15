@@ -81,6 +81,7 @@ Just send a pull request or open an [issue]() to send more useful links! After i
 1. ES6 - tagtree.tv [episode 01](http://tagtree.tv/ecmascript-6-episode-1) | [episode 02](http://tagtree.tv/ecmascript-6-episode-2) | [episode 03](http://tagtree.tv/ecmascript-6-episode-3) | [episode 04](http://tagtree.tv/ecmascript-6-episode-4)
 1. [ES6 - the let keyword](http://tagtree.tv/ecmascript-6-let)
 1. [ECMAscript 6 Lessons - egghead.io](https://egghead.io/technologies/es6)
+1. [Ode to Code](http://odetocode.com/videos)
 
 ## Slides
 
