@@ -6,7 +6,7 @@ List of resources to learn **ECMAScript 6!** (codename: **Harmony**)
 
 ## Table of Contents
 
-* [How to Colaborate](#how-to-colaborate)
+* [How to Collaborate](#how-to-collaborate)
 * [Articles & Tutorials](#articles--tutorials)
 * [Books](#books)
 * [Built with ES6](#built-with-es6)
@@ -19,7 +19,7 @@ List of resources to learn **ECMAScript 6!** (codename: **Harmony**)
 * [Transpilers/Polyfills](#transpilerspolyfills)
 * [More Useful Links](#more-useful-links)
 
-## How to Colaborate
+## How to Collaborate
 
 Just send a pull request or open an [issue]() to send more useful links! After it, I'll update the list!
 
