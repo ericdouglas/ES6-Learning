@@ -36,7 +36,7 @@ Just send a pull request or open an [issue]() to send more useful links! After i
 1. [A Few New Things Coming To JavaScript](http://addyosmani.com/blog/a-few-new-things-coming-to-javascript/)
 1. [Summary of ECMAScript 6 major features](http://ryandao.net/portal/content/summary-ecmascript-6-major-features)
 1. [5 Great Features in EcmaScript 6 (ES6 Harmony)](http://wintellect.com/blogs/nstieglitz/5-great-features-in-es6-harmony)
-1. An introduction to ES6 
+1. An introduction to ES6
   * [Part 1: Using ES6 Today](http://globaldev.co.uk/2013/09/es6-part-1/)
   * [Part 2: Block Scoping](http://globaldev.co.uk/2013/09/es6-part-2/)
   * [Part 3: Destructuring](http://globaldev.co.uk/2013/09/es6-part-1/)
@@ -64,6 +64,7 @@ Just send a pull request or open an [issue]() to send more useful links! After i
 ## Courses
 
 1. [What’s Coming to JavaScript - Tuts+](https://tutsplus.com/course/whats-coming-to-javascript/)
+2. [JavaScript Fundamentals for ES6](http://www.pluralsight.com/courses/javascript-fundamentals-es6)
 
 ## Learn with Code
 
