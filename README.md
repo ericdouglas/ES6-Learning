@@ -112,6 +112,7 @@ Just send a pull request or open an [issue]() to send more useful links! After i
 1. [Practical Workflows for ES6 Modules - Fluent 2014](http://www.youtube.com/watch?v=0VUjM-jJf2U)
 1. [The State of JavaScript - Brendan Eich](http://www.infoq.com/presentations/State-JavaScript)
 1. [Luke Hoban: ECMAScript 6](http://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2012/ECMAScript-6)
+1. [John K. Paul - ES6 Right Now](https://www.youtube.com/watch?v=rwm5JLqCpdk&index=16&list=PL-0yjdC10QYpmXI3l-PGK1od4kTWOjm_A&spfreload=10)
 
 ## Transpilers/Polyfills
 
