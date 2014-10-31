@@ -61,12 +61,16 @@ Just send a pull request or open an [issue]() to send more useful links! After i
 
 ## Built with ES6
 
+1. [Learn Harmony](https://github.com/BrianGenisio/learnharmony)
+
 ## Courses
 
 1. [What’s Coming to JavaScript - Tuts+](https://tutsplus.com/course/whats-coming-to-javascript/)
 2. [JavaScript Fundamentals for ES6](http://www.pluralsight.com/courses/javascript-fundamentals-es6)
 
 ## Learn with Code
+
+1. [Learn Harmony](http://learnharmony.org)
 
 ## Podcasts
 
