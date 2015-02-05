@@ -28,7 +28,6 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [Nicholas Zakas' articles](http://www.nczonline.net/blog/tag/ecmascript-6/)
 1. [A guide to 2ality’s posts on ECMAScript.next/ECMAScript 6](http://www.2ality.com/2012/11/guide-esnext.html)
 1. [Axel Rauschmayer's articles](http://www.2ality.com/search/label/esnext)
-1. [Javascript ES6: Learn important features in a few minutes](http://www.frontendjournal.com/javascript-es6-learn-important-features-in-a-few-minutes/)
 1. [ES6 for Node](http://dailyjs.com/2012/10/15/preparing-for-esnext/)
 1. [Use ECMAScript 6 Today](http://code.tutsplus.com/articles/use-ecmascript-6-today--net-31582)
 1. [Rewriting A WebApp With ECMAScript 6](http://blog.tastejs.com/rewriting-a-webapp-with-ecmascript-6)
@@ -43,7 +42,6 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
   * [Part 4: Parameters and Spread](http://globaldev.co.uk/2013/09/es6-part-1/)
 1. [ECMAScript 6: Jump in, the water is warm!](http://flippinawesome.org/2014/04/14/ecmascript-6-jump-in-the-water-is-warm/)
 1. [ECMAScript 6 – Playing around in Harmony](http://thejackalofjavascript.com/es6-playing-around-in-harmony/)
-1. [ECMAScript 6 features: classes](http://dstrunk.com/ecmascript-6-features-classes/)
 1. [Playing with iterators and generators in ECMAScript 6](http://macr.ae/article/iterators-and-generators.html)
 1. [Performance in ECMAScript 6](http://www.pixeldonor.com/2014/mar/30/performance-ecmascript-6/)
 1. [10 ECMASCRIPT-6 TRICKS YOU CAN PERFORM RIGHT NOW](http://html5hub.com/10-ecmascript-6-tricks-you-can-perform-right-now/#i.1h3oa30hkjd9b1)
@@ -143,6 +141,5 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [ECMAScript 6 Resources For The Curious JavaScripter](http://addyosmani.com/blog/ecmascript-6-resources-for-the-curious-javascripter/)
 1. [ES6 what can be shimmed and what not.](https://gist.github.com/Raynos/1665192)
 1. [EcmaScript Sixth Edition Overview](http://espadrine.github.io/New-In-A-Spec/es6/)
-1. [ES.next needs You!](http://javascriptweblog.wordpress.com/2012/05/07/putting-the-developer-back-in-es-next/)
 1. [JSFixed](https://github.com/JSFixed/JSFixed/issues) - share your feelings, loves, hates, proposals on ES.next
 1. [es-discuss](https://mail.mozilla.org/listinfo/es-discuss) - Discussion of ECMAScript
