@@ -21,7 +21,7 @@ List of resources to learn **ECMAScript 6!** (codename: **Harmony**)
 
 ## How to Collaborate
 
-Just send a pull request or open an [issue]() to send more useful links! After it, I'll update the list!
+Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-Learning/issues) to send more useful links! After it, I'll update the list!
 
 ## Articles & Tutorials
 
@@ -34,7 +34,7 @@ Just send a pull request or open an [issue]() to send more useful links! After i
 1. [Rewriting A WebApp With ECMAScript 6](http://blog.tastejs.com/rewriting-a-webapp-with-ecmascript-6)
 1. [Toward Modern Web Apps with ECMAScript 6](http://www.sencha.com/blog/toward-modern-web-apps-with-ecmascript-6)
 1. [A Few New Things Coming To JavaScript](http://addyosmani.com/blog/a-few-new-things-coming-to-javascript/)
-1. [Summary of ECMAScript 6 major features](http://ryandao.net/portal/content/summary-ecmascript-6-major-features)
+1. [Summary of ECMAScript 6 major features](http://ryandao.net/summary-ecmascript-6-major-features/)
 1. [5 Great Features in EcmaScript 6 (ES6 Harmony)](http://wintellect.com/blogs/nstieglitz/5-great-features-in-es6-harmony)
 1. An introduction to ES6
   * [Part 1: Using ES6 Today](http://globaldev.co.uk/2013/09/es6-part-1/)
