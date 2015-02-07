@@ -64,7 +64,8 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 ## Courses
 
 1. [What’s Coming to JavaScript - Tuts+](https://tutsplus.com/course/whats-coming-to-javascript/)
-2. [JavaScript Fundamentals for ES6](http://www.pluralsight.com/courses/javascript-fundamentals-es6)
+1. [JavaScript Fundamentals for ES6](http://www.pluralsight.com/courses/javascript-fundamentals-es6)
+1. [Expert ES6](http://tagtree.io/courses/expert-es6)
 
 ## Learn with Code
 
