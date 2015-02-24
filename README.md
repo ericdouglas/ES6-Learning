@@ -56,10 +56,12 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 
 1. [Understanding ECMAScript 6](https://leanpub.com/understandinges6) - [read online](https://leanpub.com/understandinges6/read)
 1. [JS.next: A Manager’s Guide](http://chimera.labs.oreilly.com/books/1234000001623/index.html)
+1. [Exploring ES6](http://exploringjs.com)
 
 ## Built with ES6
 
 1. [Learn Harmony](https://github.com/BrianGenisio/learnharmony)
+1. [Gistbook](https://github.com/jmeas/gistbook)
 
 ## Courses
 
@@ -121,6 +123,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 
 ### Transpilers
 
+1. [Babel](https://babeljs.io)
 1. [Google Traceur](https://code.google.com/p/traceur-compiler/wiki/LanguageFeatures)
 1. [Google Caja](https://code.google.com/p/google-caja/)
 1. [Esprima](http://esprima.googlecode.com/git-history/harmony/index.html)
