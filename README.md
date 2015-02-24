@@ -123,6 +123,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 
 ### Transpilers
 
+1. [Babel](https://babeljs.io)
 1. [Google Traceur](https://code.google.com/p/traceur-compiler/wiki/LanguageFeatures)
 1. [Google Caja](https://code.google.com/p/google-caja/)
 1. [Esprima](http://esprima.googlecode.com/git-history/harmony/index.html)
