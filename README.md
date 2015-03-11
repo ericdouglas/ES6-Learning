@@ -51,6 +51,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [Hanging up on Callbacks: Generators in ECMAScript 6](http://blog.carbonfive.com/2013/12/01/hanging-up-on-callbacks-generators-in-ecmascript-6/)
 1. [ECMASCRIPT 6 – STRING.PROTOTYPE.REPEAT()](http://cwestblog.com/2014/02/27/ecmascript-6-string-prototype-repeat/)
 1. [ECMAScript 6 Classes](http://www.9bitstudios.com/2014/04/ecmascript-6-classes/)
+1. [A collaborative website about the ECMAScript 6](http://es6rocks.com/) 
 
 ## Books
 
