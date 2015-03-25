@@ -52,6 +52,9 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [ECMASCRIPT 6 – STRING.PROTOTYPE.REPEAT()](http://cwestblog.com/2014/02/27/ecmascript-6-string-prototype-repeat/)
 1. [ECMAScript 6 Classes](http://www.9bitstudios.com/2014/04/ecmascript-6-classes/)
 1. [A collaborative website about the ECMAScript 6](http://es6rocks.com/) 
+1. [Destructuring and Recursion in ES-6](http://raganwald.com/2015/02/02/destructuring.html)
+1. [Tail Calls, Default Arguments, and Excessive Recycling in ES-6](http://raganwald.com/2015/02/07/tail-calls-defult-arguments-recycling.html)
+1. [Lazy Iterables in JavaScript](http://raganwald.com/2015/02/17/lazy-iteratables-in-javascript.html)
 
 ## Books
 
