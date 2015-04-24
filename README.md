@@ -55,6 +55,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [Destructuring and Recursion in ES-6](http://raganwald.com/2015/02/02/destructuring.html)
 1. [Tail Calls, Default Arguments, and Excessive Recycling in ES-6](http://raganwald.com/2015/02/07/tail-calls-defult-arguments-recycling.html)
 1. [Lazy Iterables in JavaScript](http://raganwald.com/2015/02/17/lazy-iteratables-in-javascript.html)
+1. [ES6 In Depth: An Introduction](https://hacks.mozilla.org/2015/04/es6-in-depth-an-introduction/)
 
 ## Books
 
