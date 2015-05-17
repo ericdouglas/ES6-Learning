@@ -28,7 +28,6 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [Nicholas Zakas' articles](http://www.nczonline.net/blog/tag/ecmascript-6/)
 1. [A guide to 2ality’s posts on ECMAScript.next/ECMAScript 6](http://www.2ality.com/2012/11/guide-esnext.html)
 1. [Axel Rauschmayer's articles](http://www.2ality.com/search/label/esnext)
-1. [ES6 for Node](http://dailyjs.com/2012/10/15/preparing-for-esnext/)
 1. [Use ECMAScript 6 Today](http://code.tutsplus.com/articles/use-ecmascript-6-today--net-31582)
 1. [Rewriting A WebApp With ECMAScript 6](https://medium.com/@tastejs/rewriting-a-webapp-with-ecmascript-6-39417b642cb2)
 1. [Toward Modern Web Apps with ECMAScript 6](http://www.sencha.com/blog/toward-modern-web-apps-with-ecmascript-6)
