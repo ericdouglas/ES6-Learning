@@ -110,7 +110,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [Slideshare Presentations](http://www.slideshare.net/search/slideshow?searchfrom=header&q=ecmascript+6)
 1. [Slid.es Presentations](http://slides.com/explore?search=ecmascript%206)
 1. [ECMAScript (ES) 6 - Mark Volkmann](http://java.ociweb.com/mark/programming/JavaScript/ES6.pdf)
-
+1. [The power of ES6](http://charlesbking.com/power_of_es6/)
 
 ## Talks
 
