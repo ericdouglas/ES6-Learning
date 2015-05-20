@@ -1,6 +1,6 @@
 ![ECMAScript 6 Learning](http://i.imgur.com/dgRa9Hm.png)
 
-List of resources to learn **ECMAScript 6!** (codename: **Harmony**)
+List of resources to learn **ECMAScript 6!** (codename: **ES2015**)
 
 #### [ES6 Specification/Proposals](http://wiki.ecmascript.org/doku.php?id=harmony:proposals&do=backlink)
 
