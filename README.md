@@ -57,6 +57,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [ES6 In Depth: An Introduction](https://hacks.mozilla.org/2015/04/es6-in-depth-an-introduction/)
 1. [How to Use ES6 for Isomorphic JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2)
 1. [ES6 Generators: How do they work?](http://x-team.com/2015/04/generators-work)
+1. [ECMASCript 2015 series on @medium](https://medium.com/ecmascript-2015) 
 
 ## Books
 
