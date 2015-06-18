@@ -37,8 +37,8 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. An introduction to ES6
   * [Part 1: Using ES6 Today](http://globaldev.co.uk/2013/09/es6-part-1/)
   * [Part 2: Block Scoping](http://globaldev.co.uk/2013/09/es6-part-2/)
-  * [Part 3: Destructuring](http://globaldev.co.uk/2013/09/es6-part-1/)
-  * [Part 4: Parameters and Spread](http://globaldev.co.uk/2013/09/es6-part-1/)
+  * [Part 3: Destructuring](http://globaldev.co.uk/2013/10/es6-part-3/)
+  * [Part 4: Parameters and Spread](http://globaldev.co.uk/2013/10/es6-part-4/)
 1. [ECMAScript 6: Jump in, the water is warm!](http://flippinawesome.org/2014/04/14/ecmascript-6-jump-in-the-water-is-warm/)
 1. [ECMAScript 6 – Playing around in Harmony](http://thejackalofjavascript.com/es6-playing-around-in-harmony/)
 1. [Playing with iterators and generators in ECMAScript 6](http://macr.ae/article/iterators-and-generators.html)
