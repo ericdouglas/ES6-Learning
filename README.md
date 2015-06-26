@@ -84,6 +84,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 
 1. [Learn Harmony](http://learnharmony.org)
 1. [ECMAScript 6 — Feature Overview & Comparison](http://es6-features.org/)
+1. [ES6 Katas](http://es6katas.org/)
 
 ## Podcasts
 
