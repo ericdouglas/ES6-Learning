@@ -1,4 +1,4 @@
-![ECMAScript 6 Learning](http://i.imgur.com/dgRa9Hm.png)
+# ECMAScript 6 Learning
 
 List of resources to learn **ECMAScript 6!**
 
