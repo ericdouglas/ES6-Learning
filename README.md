@@ -48,6 +48,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 #### template strings
 
 1. [A critical review of ECMAScript 6 quasi-literals](http://www.nczonline.net/blog/2012/08/01/a-critical-review-of-ecmascript-6-quasi-literals/) - Nicholas Zakas
+
 #### RegExp "y" and "u" flags
 #### destructuring
 #### Unicode code point escapes
@@ -66,6 +67,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 #### class
 
 1. [Does JavaScript need classes?](http://www.nczonline.net/blog/2012/10/16/does-javascript-need-classes/) - Nicholas Zakas
+
 #### super
 #### generators
 
@@ -74,9 +76,11 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 #### Map
 
 1. [ECMAScript 6 collections, Part 2: Maps](http://www.nczonline.net/blog/2012/10/09/ecmascript-6-collections-part-2-maps/) - Nicholas Zakas
+
 #### Set
 
 1. [ECMAScript 6 collections, Part 1: Sets](http://www.nczonline.net/blog/2012/09/25/ecmascript-6-collections-part-1-sets/) - Nicholas Zakas
+
 #### WeakMap
 
 1. [ECMAScript 6 collections, Part 3: WeakMaps](http://www.nczonline.net/blog/2012/11/06/ecmascript-6-collections-part-3-weakmaps/) - Nicholas Zakas
@@ -84,6 +88,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 
 #### WeakSet
 #### Proxy
+
 1. [Creating type-safe properties with ECMAScript 6 proxies](http://www.nczonline.net/blog/2014/04/29/creating-type-safe-properties-with-ecmascript-6-proxies/) - Nicholas Zakas
 1. [Creating defensive objects with ES6 proxies](http://www.nczonline.net/blog/2014/04/22/creating-defensive-objects-with-es6-proxies/) - Nicholas Zakas
 
