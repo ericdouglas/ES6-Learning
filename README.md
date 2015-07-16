@@ -17,6 +17,7 @@ List of resources to learn **ECMAScript 6!**
   - [Subclassing](#subclassing)
   - [Misc](#misc)
   - [Annex b](#annex-b)
+  - [General](#general)
 * [Books](#books)
 * [Built with ES6](#built-with-es6)
 * [Courses](#courses)
@@ -45,6 +46,8 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 #### for..of loops
 #### octal and binary literals
 #### template strings
+
+1. [A critical review of ECMAScript 6 quasi-literals](http://www.nczonline.net/blog/2012/08/01/a-critical-review-of-ecmascript-6-quasi-literals/) - Nicholas Zakas
 #### RegExp "y" and "u" flags
 #### destructuring
 #### Unicode code point escapes
@@ -57,23 +60,40 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 
 ### Functions
 #### arrow functions
+
+1. [Understanding ECMAScript 6 arrow functions](http://www.nczonline.net/blog/2013/09/10/understanding-ecmascript-6-arrow-functions/) - Nicholas Zakas
+
 #### class
+
+1. [Does JavaScript need classes?](http://www.nczonline.net/blog/2012/10/16/does-javascript-need-classes/) - Nicholas Zakas
 #### super
 #### generators
 
 ### Built-ins
 #### typed arrays
 #### Map
+
+1. [ECMAScript 6 collections, Part 2: Maps](http://www.nczonline.net/blog/2012/10/09/ecmascript-6-collections-part-2-maps/) - Nicholas Zakas
 #### Set
+
+1. [ECMAScript 6 collections, Part 1: Sets](http://www.nczonline.net/blog/2012/09/25/ecmascript-6-collections-part-1-sets/) - Nicholas Zakas
 #### WeakMap
+
+1. [ECMAScript 6 collections, Part 3: WeakMaps](http://www.nczonline.net/blog/2012/11/06/ecmascript-6-collections-part-3-weakmaps/) - Nicholas Zakas
+1. [Private instance members with weakmaps in JavaScript](http://www.nczonline.net/blog/2014/01/21/private-instance-members-with-weakmaps-in-javascript/) - Nicholas Zakas
+
 #### WeakSet
 #### Proxy
+1. [Creating type-safe properties with ECMAScript 6 proxies](http://www.nczonline.net/blog/2014/04/29/creating-type-safe-properties-with-ecmascript-6-proxies/) - Nicholas Zakas
+1. [Creating defensive objects with ES6 proxies](http://www.nczonline.net/blog/2014/04/22/creating-defensive-objects-with-es6-proxies/) - Nicholas Zakas
+
 #### Reflect
 #### Promise
 #### Symbol
 #### Well-known symbols
 
 ### Built-in extensions
+
 #### Object static methods
 #### Function "name" property
 #### String static methods
@@ -91,10 +111,15 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 #### Promise is subclassable
 #### miscellaneous is subclassable
 
-### Misc
+### General
+
+#### ES6 with Node.js
+#### Testing ES6 code
 #### prototype and bound functions
 #### Object static methods accept primitives
 #### Miscellaneous
+
+1. [Thoughts on ECMAScript 6 and new syntax](http://www.nczonline.net/blog/2012/07/24/thoughts-on-ecmascript-6-and-new-syntax/) - Nicholas Zakas
 
 ### Annex b
 #### non-strict function semantics
@@ -104,7 +129,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 #### RegExp.prototype.compile
 #### RegExp syntax extensions
 
-1. [Nicholas Zakas' articles](http://www.nczonline.net/blog/tag/ecmascript-6/)
+1. [Nicholas Zakas' articles](http://www.nczonline.net/blog/tag/ecmascript-6/) ✔
 1. [A guide to 2ality’s posts on ECMAScript.next/ECMAScript 6](http://www.2ality.com/2012/11/guide-esnext.html)
 1. [Axel Rauschmayer's articles](http://www.2ality.com/search/label/esnext)
 1. [Use ECMAScript 6 Today](http://code.tutsplus.com/articles/use-ecmascript-6-today--net-31582)
