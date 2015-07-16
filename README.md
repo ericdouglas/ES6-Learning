@@ -8,6 +8,15 @@ List of resources to learn **ECMAScript 6!**
 
 * [How to Collaborate](#how-to-collaborate)
 * [Articles & Tutorials](#articles--tutorials)
+  - [Optimisation]()
+  - [Syntax]()
+  - [Bindings]()
+  - [Functions]()
+  - [Built-ins]()
+  - [Built-in extensions]()
+  - [Subclassing]()
+  - [Misc]()
+  - [Annex b]()
 * [Books](#books)
 * [Built with ES6](#built-with-es6)
 * [Courses](#courses)
@@ -25,74 +34,75 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 
 ## Articles & Tutorials
 
-- **Optimisation**
-  - proper tail calls (tail call optimisation)
-- **Syntax**
-  - default function parameters
-  - rest parameters
-  - spread (...) operator
-  - object literal extensions
-  - for..of loops
-  - octal and binary literals
-  - template strings
-  - RegExp "y" and "u" flags
-  - destructuring
-  - Unicode code point escapes
-  - new.target
+### Optimisation
+#### proper tail calls (tail call optimisation)
 
-- **Bindings**
-  - const
-  - let
-  - block-level function declaration
+### Syntax
+#### default function parameters
+#### rest parameters
+#### spread (...) operator
+#### object literal extensions
+#### for..of loops
+#### octal and binary literals
+#### template strings
+#### RegExp "y" and "u" flags
+#### destructuring
+#### Unicode code point escapes
+#### new.target
 
-- **Functions**
-  - arrow functions
-  - class
-  - super
-  - generators
+### Bindings
+#### const
+#### let
+#### block-level function declaration
 
-- **Built-ins**
-  - typed arrays
-  - Map
-  - Set
-  - WeakMap
-  - WeakSet
-  - Proxy
-  - Reflect
-  - Promise
-  - Symbol
-  - Well-known symbols
+### Functions
+#### arrow functions
+#### class
+#### super
+#### generators
 
-- **Built-in extensions**
-  - Object static methods
-  - Function "name" property
-  - String static methods
-  - String.prototype methods
-  - RegExp.prototype methods
-  - Array static methods
-  - Array.static methods
-  - Number properties
-  - Math methods
+### Built-ins
+#### typed arrays
+#### Map
+#### Set
+#### WeakMap
+#### WeakSet
+#### Proxy
+#### Reflect
+#### Promise
+#### Symbol
+#### Well-known symbols
 
-- **Subclassing**
-  - Array is subclassable
-  - RegExp is subclassable
-  - Function is subclassable
-  - Promise is subclassable
-  - miscellaneous is subclassable
+### Built-in extensions
+#### Object static methods
+#### Function "name" property
+#### String static methods
+#### String.prototype methods
+#### RegExp.prototype methods
+#### Array static methods
+#### Array.static methods
+#### Number properties
+#### Math methods
 
-- **Misc**
-  - prototype and bound functions
-  - Object static methods accept primitives
-  - Miscellaneous
+### Subclassing
+#### Array is subclassable
+#### RegExp is subclassable
+#### Function is subclassable
+#### Promise is subclassable
+#### miscellaneous is subclassable
 
-- **Annex b**
-  - non-strict function semantics
-  - `__proto__` in object literals
-  - `Object.prototype.__proto__`
-  - String.prototype HTML methods
-  - RegExp.prototype.compile
-  - RegExp syntax extensions
+### Misc
+#### prototype and bound functions
+#### Object static methods accept primitives
+#### Miscellaneous
+
+### Annex b
+#### non-strict function semantics
+#### `__proto__` in object literals
+#### `Object.prototype.__proto__`
+#### String.prototype HTML methods
+#### RegExp.prototype.compile
+#### RegExp syntax extensions
 
 1. [Nicholas Zakas' articles](http://www.nczonline.net/blog/tag/ecmascript-6/)
 1. [A guide to 2ality’s posts on ECMAScript.next/ECMAScript 6](http://www.2ality.com/2012/11/guide-esnext.html)
