@@ -2,7 +2,7 @@
 
 List of resources to learn **ECMAScript 6!**
 
-#### [ES6 Specification/Proposals](http://wiki.ecmascript.org/doku.php?id=harmony:proposals&do=backlink)
+#### [ES6 Specification](http://www.ecma-international.org/ecma-262/6.0/)
 
 ## Table of Contents
 
