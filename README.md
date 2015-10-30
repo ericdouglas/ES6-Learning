@@ -104,14 +104,12 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 
 ## Slides
 
-1. [JAVASCRIPT NEXT - ES6 HARMONY](http://sankhs.com/jschannel-es6/#/)
 1. [EcmaScript 6 - My Favorite Things](https://dl.dropboxusercontent.com/u/3531958/es6-favorite-parts/index.html#/)
 1. [An Overview of ECMAScript 6 - Axel Rauschmayer](http://cdn.oreillystatic.com/en/assets/1/event/93/An%20Overview%20of%20ECMAScript%206%20Presentation.pdf)
 2. [ECMAScript 6: A Better JavaScript for the Ambient Computing Era](http://pt.slideshare.net/allenwb/wdc14-allebwb)
 1. [Speakerdeck presentations](https://speakerdeck.com/search?q=ecmascript+6)
 1. [Slideshare Presentations](http://www.slideshare.net/search/slideshow?searchfrom=header&q=ecmascript+6)
 1. [Slid.es Presentations](http://slides.com/explore?search=ecmascript%206)
-1. [ECMAScript (ES) 6 - Mark Volkmann](http://java.ociweb.com/mark/programming/JavaScript/ES6.pdf)
 1. [The power of ES6 - Charles King](http://charlesbking.com/power_of_es6/)
 
 ## Talks
