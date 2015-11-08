@@ -91,6 +91,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 
 1. [The JavaScript Show - Ecmascript 6](http://castroller.com/podcasts/TheJavascriptShow/2880479)
 1. [5 minutes of JavaScript - #18](http://five-js.envylabs.com/episodes/18-episode-18-march-13th-2014/stories/123-ecmascript-6-features)
+1. [Javascript Jabber - ES6 with Aaron Frost - #68](https://devchat.tv/js-jabber/068-jsj-es6-with-aaron-frost)
 
 ## Screencasts
 
