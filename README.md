@@ -60,7 +60,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [ECMASCript 2015 series on @medium](https://medium.com/ecmascript-2015)
 1. [ES6 In Depth articles by Nicolas Bevacqua](https://ponyfoo.com/articles/tagged/es6-in-depth)
 1. [ES6 Overview in 350 Bullet Points by Nicolas Bevacqua](https://ponyfoo.com/articles/es6)
-
+1. [Configuring Babel6 with Node.js for ES6/7 Transpilation](https://github.com/abdulhannanali/babel-configuration-tutorial/blob/master/tutorial.md)
 ## Books
 
 1. [Understanding ECMAScript 6](https://leanpub.com/understandinges6) - [read online](https://leanpub.com/understandinges6/read)
