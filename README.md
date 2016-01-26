@@ -81,6 +81,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [JavaScript Fundamentals for ES6 - Pluralsight](http://www.pluralsight.com/courses/javascript-fundamentals-es6)
 1. [Expert ES6 - Tagtree](http://tagtree.io/courses/expert-es6)
 1. [JS.Next: ES6 - Frontend Masters](https://frontendmasters.com/courses/jsnext-es6/)
+2. [Say Hello to ES2015](https://tutor.mantrajs.com/say-hello-to-ES2015/introduction)
 
 ## Learn with Code
 
