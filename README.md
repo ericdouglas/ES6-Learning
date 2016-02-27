@@ -69,7 +69,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 1. [Expert JavaScript](http://www.apress.com/9781430260974)
 1. [JavaScript Allongé, The "Six" Edition](https://leanpub.com/javascriptallongesix)
-1. [Setting Up ES6](https://leanpub.com/setting-up-es6) [Read Online](https://leanpub.com/setting-up-es6/read)
+1. [Setting Up ES6](https://leanpub.com/setting-up-es6) - [Read Online](https://leanpub.com/setting-up-es6/read)
 1. [Exploring ES6](https://leanpub.com/exploring-es6)
 
 ## Built with ES6
