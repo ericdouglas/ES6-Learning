@@ -125,7 +125,6 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [What's ECMAScript 6 Good For? - Presentation by Julio Cesar Ody](http://www.youtube.com/watch?v=tBkA6x0sbuQ)
 1. [Hanging Up On Callbacks: Using ECMAScript 6 Generators](http://www.youtube.com/watch?v=OYdP1tQ9Rnw)
 1. [Axel Rauschmayer - A 90 minute overview of ECMAScript 6](http://www.2ality.com/2015/02/using-es6-today-minsk.html)
-1. [ECMAScript 6 with Kit Cambridge](http://www.youtube.com/watch?v=3XlwdEc6H6A)
 1. [Kit Cambridge, "EcmaScript Next: The Subtleties of ES 6" at W3Conf 2013](http://www.youtube.com/watch?v=Dt0f2XdvriQ)
 1. [Yehuda Katz - ECMAScript 6](http://www.youtube.com/watch?v=AkjcxlAuyLI)
 1. [Ben Newman - Easing into ECMAScript 6 and Beyond](http://www.youtube.com/watch?v=kXY9hIPKuLQ)
