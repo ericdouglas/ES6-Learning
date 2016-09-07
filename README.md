@@ -65,7 +65,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 
 ## Books
 
-1. [Understanding ECMAScript 6](https://leanpub.com/understandinges6) - [Read online](https://leanpub.com/understandinges6/read)
+1. [Understanding ECMAScript 6](https://leanpub.com/understandinges6) - [Read Online](https://leanpub.com/understandinges6/read)
 1. [JS.next: A Manager’s Guide](http://chimera.labs.oreilly.com/books/1234000001623/index.html)
 1. [Exploring ES6](http://exploringjs.com)
 1. [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
