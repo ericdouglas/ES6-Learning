@@ -61,7 +61,8 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [ES6 In Depth articles by Nicolas Bevacqua](https://ponyfoo.com/articles/tagged/es6-in-depth)
 1. [ES6 Overview in 350 Bullet Points by Nicolas Bevacqua](https://ponyfoo.com/articles/es6)
 1. [ECMAScript 6 Overview in simple terms](https://github.com/imalitavakoli/learn-es6)
-2. [Using ES6 at work](http://xarnze.com/article/ES6,%20ECMAScript2015)
+1. [Using ES6 at work](http://xarnze.com/article/ES6,%20ECMAScript2015)
+1. [ES6 for Humans - Kickstarter Guide to writing ES6](https://github.com/metagrover/ES6-for-humans)
 
 ## Books
 
