@@ -74,6 +74,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [JavaScript Allongé, The "Six" Edition](https://leanpub.com/javascriptallongesix)
 1. [Setting Up ES6](https://leanpub.com/setting-up-es6) - [Read Online](https://leanpub.com/setting-up-es6/read)
 1. [Exploring ES6](https://leanpub.com/exploring-es6)
+1. [ECMAScript 6 Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/ECMAScript_6_Succinctly)
 
 ## Built with ES6
 
@@ -87,6 +88,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [JS.Next: ES6 - Frontend Masters](https://frontendmasters.com/courses/jsnext-es6/)
 2. [Say Hello to ES2015](https://tutor.mantrajs.com/say-hello-to-ES2015/introduction)
 3. [ES6 For Everyone](https://es6.io)
+3. [Rapid ES6 Training - Pluralsight ](https://www.pluralsight.com/courses/rapid-es6-training)
 
 ## Learn with Code
 
