@@ -74,6 +74,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [JavaScript Allongé, The "Six" Edition](https://leanpub.com/javascriptallongesix)
 1. [Setting Up ES6](https://leanpub.com/setting-up-es6) - [Read Online](https://leanpub.com/setting-up-es6/read)
 1. [Exploring ES6](https://leanpub.com/exploring-es6)
+1. [ECMAScript 6 Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/ECMAScript_6_Succinctly)
 
 ## Built with ES6
 
