@@ -113,6 +113,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [ES6 - the let keyword](http://tagtree.tv/ecmascript-6-let)
 1. [ECMAscript 6 Lessons - egghead.io](https://egghead.io/technologies/es6)
 1. [Ode to Code](http://odetocode.com/videos)
+1. ES6 Tutorial for Beginners [part 01](https://www.youtube.com/watch?v=JVKFTS9duIo) | [part 02](https://www.youtube.com/watch?v=OV_EPRUgvxo)
 
 ## Slides
 
