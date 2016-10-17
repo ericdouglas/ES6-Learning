@@ -87,9 +87,10 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [What’s Coming to JavaScript - Tuts+](https://tutsplus.com/course/whats-coming-to-javascript/)
 1. [JavaScript Fundamentals for ES6 - Pluralsight](http://www.pluralsight.com/courses/javascript-fundamentals-es6)
 1. [JS.Next: ES6 - Frontend Masters](https://frontendmasters.com/courses/jsnext-es6/)
-2. [Say Hello to ES2015](https://tutor.mantrajs.com/say-hello-to-ES2015/introduction)
-3. [ES6 For Everyone](https://es6.io)
-3. [Rapid ES6 Training - Pluralsight ](https://www.pluralsight.com/courses/rapid-es6-training)
+1. [Say Hello to ES2015](https://tutor.mantrajs.com/say-hello-to-ES2015/introduction)
+1. [ES6 For Everyone](https://es6.io)
+1. [Rapid ES6 Training - Pluralsight ](https://www.pluralsight.com/courses/rapid-es6-training)
+1. [ES2015 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
 
 ## Learn with Code
 
