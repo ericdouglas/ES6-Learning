@@ -18,6 +18,7 @@ List of resources to learn **ECMAScript 6!**
   - [Misc](#misc)
   - [Annex b](#annex-b)
   - [General](#general)
+  - [Mortgage Calculator with ES6]
 * [Books](#books)
 * [Built with ES6](#built-with-es6)
 * [Courses](#courses)
