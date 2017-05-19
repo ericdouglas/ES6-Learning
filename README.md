@@ -39,6 +39,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
   * [Part 2: Block Scoping](http://dev.venntro.com/2013/09/es6-part-2/)
   * [Part 3: Destructuring](http://dev.venntro.com/2013/10/es6-part-3/)
   * [Part 4: Parameters and Spread](http://dev.venntro.com/2013/10/es6-part-4/)
+1. [ES6 and Typescript Tutorial](https://www.youtube.com/watch?v=n3zrCxB8sj8&list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV/)  
 1. [ECMAScript 6: Jump in, the water is warm!](http://flippinawesome.org/2014/04/14/ecmascript-6-jump-in-the-water-is-warm/)
 1. [ECMAScript 6 – Playing around in Harmony](http://thejackalofjavascript.com/es6-playing-around-in-harmony/)
 1. [Playing with iterators and generators in ECMAScript 6](http://macr.ae/article/iterators-and-generators.html)
