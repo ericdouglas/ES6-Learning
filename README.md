@@ -94,6 +94,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [Rapid ES6 Training - Pluralsight ](https://www.pluralsight.com/courses/rapid-es6-training)
 1. [ES2015 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
 1. [ES6 Javascript: The Complete Developer's Guide](https://www.udemy.com/javascript-es6-tutorial/learn/v4/overview)
+1. [Programming with ECMAScript 2015 (Video Course)](https://www.packtpub.com/web-development/programming-ecmascript-2015-video) by Lohith G. N., Packt. (April 2017)
 
 ## Learn with Code
 
