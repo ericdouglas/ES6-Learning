@@ -95,6 +95,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [ES2015 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
 1. [ES6 Javascript: The Complete Developer's Guide](https://www.udemy.com/javascript-es6-tutorial/learn/v4/overview)
 1. [Programming with ECMAScript 2015 (Video Course)](https://www.packtpub.com/web-development/programming-ecmascript-2015-video) by Lohith G. N., Packt. (April 2017)
+1. [ES6 in Motion](https://www.manning.com/livevideo/es6-in-motion) by Wes Higbee, Manning. (May 2017) - packed with exercises
 
 ## Learn with Code
 
