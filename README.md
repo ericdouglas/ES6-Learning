@@ -78,6 +78,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [ECMAScript 6 Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/ECMAScript_6_Succinctly)
 1. [Let's Learn ES6](https://letslearnes6.com/)
 1. [ES6 in Practice](https://leanpub.com/es6-in-practice)
+1. [Get Programming with JavaScript Next](https://www.manning.com/books/get-programming-with-javascript-next) 
 
 ## Built with ES6
 
