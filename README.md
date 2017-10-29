@@ -78,7 +78,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [ECMAScript 6 Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/ECMAScript_6_Succinctly)
 1. [Let's Learn ES6](https://letslearnes6.com/)
 1. [ES6 in Practice](https://leanpub.com/es6-in-practice)
-1. [Get Programming with JavaScript Next](https://www.manning.com/books/get-programming-with-javascript-next) 
+1. [Get Programming with JavaScript Next](https://www.manning.com/books/get-programming-with-javascript-next)
 
 ## Built with ES6
 
@@ -97,6 +97,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [ES6 Javascript: The Complete Developer's Guide](https://www.udemy.com/javascript-es6-tutorial/learn/v4/overview)
 1. [Programming with ECMAScript 2015 (Video Course)](https://www.packtpub.com/web-development/programming-ecmascript-2015-video) by Lohith G. N., Packt. (April 2017)
 1. [ES6 in Motion](https://www.manning.com/livevideo/es6-in-motion) by Wes Higbee, Manning. (May 2017) - packed with exercises
+1. [ES6: JavaScript Improved - Udacity](https://www.udacity.com/course/es6-javascript-improved--ud356)
 
 ## Learn with Code
 
