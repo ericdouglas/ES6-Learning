@@ -79,6 +79,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [Let's Learn ES6](https://letslearnes6.com/)
 1. [ES6 in Practice](https://leanpub.com/es6-in-practice)
 1. [Get Programming with JavaScript Next](https://www.manning.com/books/get-programming-with-javascript-next)
+1. [Builder Book: Learn how to build a full stack JavaScript web app from scratch](https://builderbook.org/book)
 
 ## Built with ES6
 
