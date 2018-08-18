@@ -91,7 +91,6 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [What’s Coming to JavaScript - Tuts+](https://tutsplus.com/course/whats-coming-to-javascript/)
 1. [JavaScript Fundamentals for ES6 - Pluralsight](http://www.pluralsight.com/courses/javascript-fundamentals-es6)
 1. [JS.Next: ES6 - Frontend Masters](https://frontendmasters.com/courses/jsnext-es6/)
-1. [Say Hello to ES2015](https://tutor.mantrajs.com/say-hello-to-ES2015/introduction)
 1. [ES6 For Everyone](https://es6.io)
 1. [Rapid ES6 Training - Pluralsight ](https://www.pluralsight.com/courses/rapid-es6-training)
 1. [ES2015 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
@@ -108,7 +107,6 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 
 ## Podcasts
 
-1. [The JavaScript Show - Ecmascript 6](http://castroller.com/podcasts/TheJavascriptShow/2880479)
 1. [5 minutes of JavaScript - #18](http://five-js.envylabs.com/episodes/18-episode-18-march-13th-2014/stories/123-ecmascript-6-features)
 1. [Javascript Jabber - ES6 with Aaron Frost - #68](https://devchat.tv/js-jabber/068-jsj-es6-with-aaron-frost)
 
