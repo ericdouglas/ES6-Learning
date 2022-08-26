@@ -180,3 +180,4 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [JSFixed](https://github.com/JSFixed/JSFixed/issues) - share your feelings, loves, hates, proposals on ES.next
 1. [es-discuss](https://mail.mozilla.org/listinfo/es-discuss) - Discussion of ECMAScript
 1. [Airbnb Javascript Style Guide for ES6](https://github.com/airbnb/javascript)
+1. [Discover JavaScript courses](https://bestcourses.io/results?q=javascript%20&size=n_20_n)
